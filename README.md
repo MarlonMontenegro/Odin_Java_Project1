@@ -1,1 +1,1 @@
-# Odin_Java_Project1
+# rock_paper_scissors
